@@ -1,3 +1,9 @@
+/*
+Liam Crowley
+CMP-129
+Week 2 Lab 1
+9/15/26
+*/
 import java.util.Scanner;
 
 public class KineticEnergy {
